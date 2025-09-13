@@ -322,7 +322,7 @@ header.scrolled {
   border-radius: var(--border-radius);
   position: relative;
   z-index: 2;
-  height: 650px;
+  height: auto;
 }
 
 .hero-shape {
